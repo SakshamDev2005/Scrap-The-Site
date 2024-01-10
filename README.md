@@ -17,30 +17,6 @@ This Python script uses BeautifulSoup and requests libraries to perform web scra
 ```bash
 python Web-Scrapper.py
 
-
-Sure, here's a template for a README file for a web scraper using Python with BeautifulSoup and requests:
-
-markdown
-Copy code
-# Web Scraper with BeautifulSoup
-
-## Overview
-This Python script is a web scraper that uses the BeautifulSoup library for HTML parsing and the requests library for making HTTP requests. It allows users to extract information from a web page interactively.
-
-## Features
-- Retrieve HTML content from a specified URL.
-- Explore the HTML structure.
-- Extract data based on user preferences.
-
-## How to Use
-1. Install the required libraries:
-   ```bash
-   pip install beautifulsoup4 requests
-Run the script:
-
-bash
-Copy code
-python web_scraper.py
 Choose from the interactive menu options to explore and extract data.
 
 Options
