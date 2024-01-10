@@ -16,3 +16,9 @@ This Python script uses BeautifulSoup and requests libraries to perform web scra
 ## Usage Example
 ```bash
 python Web-Scrapper.py
+
+
+
+
+
+Make sure to replace `[Your Name]` with your actual name and include a license file (e.g., `LICENSE`) if you decide to distribute your code. The README file provides clear instructions on how to use the web scraper and highlights its key features.
