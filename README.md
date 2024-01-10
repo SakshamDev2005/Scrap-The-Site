@@ -15,4 +15,4 @@ This Python script uses BeautifulSoup and requests libraries to perform web scra
 
 ## Usage Example
 ```bash
-python web_scrape_script.py
+python Web-Scrapper.py
