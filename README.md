@@ -20,18 +20,12 @@ python Web-Scrapper.py
 Choose from the interactive menu options to explore and extract data.
 
 Options
-See HTML Code:
+See HTML Code: Displays the prettified version of the entire HTML code.
 
-Displays the prettified version of the entire HTML code.
-Title of the Site:
+Title of the Site: Retrieves and displays the title of the website.
 
-Retrieves and displays the title of the website.
-Extract A Tags:
+Extract A Tags: Extracts and displays URLs from anchor (a) tags.
 
-Extracts and displays URLs from anchor (a) tags.
-Show Paragraphs:
+Show Paragraphs: Displays the text content of paragraphs (p) on the page.
 
-Displays the text content of paragraphs (p) on the page.
-Exit:
-
-Terminates the script.
+Exit: Terminates the script.
