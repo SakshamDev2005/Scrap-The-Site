@@ -1,7 +1,7 @@
 # Web Scraping Script with BeautifulSoup
 
 ## Overview
-This Python script uses BeautifulSoup and requests libraries to perform Web Scraping on the Syberverse website. Users can interactively explore the website's HTML structure and extract information. Users can change the link and perform Web Scraping on other websites too.
+This Python script uses 𝙱̲𝚎̲𝚊̲𝚞̲𝚝̲𝚒̲𝚏̲𝚞̲𝚕̲𝚂̲𝚘̲𝚞̲𝚙̲ and 𝑅̲𝑒̲𝑞̲𝑢̲𝑒̲𝑠̲𝑡̲𝑠̲ libraries to perform 𝑊̲𝑒̲𝑏̲ 𝑆̲𝑐̲𝑟̲𝑎̲𝑝̲𝑖̲𝑛̲𝑔̲ on the Syberverse website. Users can interactively explore the website's HTML structure and extract information. Users can change the link and perform 𝑊̲𝑒̲𝑏̲ 𝑆̲𝑐̲𝑟̲𝑎̲𝑝̲𝑖̲𝑛̲𝑔̲ on other websites too.
 
 ## How to Use
 1. Run the script.
