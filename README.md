@@ -6,7 +6,7 @@ This Python script uses BeautifulSoup and requests libraries to perform web scra
 ## How to Use
 1. Run the script.
 2. Choose from the interactive menu options.
-3. Explore HTML code, view the site's title, extract links, or display paragraphs.
+3. Explore HTML code, view the site's title, extract links, display paragraphs and many more functions on your fingertips.
 
 ## Requirements
 - Python 3.x
