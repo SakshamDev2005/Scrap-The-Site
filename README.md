@@ -2,7 +2,6 @@
 
 ## Overview
 This Python script uses 𝙱̲𝚎̲𝚊̲𝚞̲𝚝̲𝚒̲𝚏̲𝚞̲𝚕̲𝚂̲𝚘̲𝚞̲𝚙̲ and 𝚁̲𝚎̲𝚚̲𝚞̲𝚎̲𝚜̲𝚝̲𝚜̲ libraries to perform 𝑊̲𝑒̲𝑏̲ 𝑆̲𝑐̲𝑟̲𝑎̲𝑝̲𝑖̲𝑛̲𝑔̲ on the Syberverse website.
-
 Users can interactively explore the website's HTML structure and extract information. Users can change the link and perform 𝑊̲𝑒̲𝑏̲ 𝑆̲𝑐̲𝑟̲𝑎̲𝑝̲𝑖̲𝑛̲𝑔̲ on other websites too.
 
 
