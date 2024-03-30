@@ -33,4 +33,12 @@ Extract A Tags: Extracts and displays URLs from anchor (a) tags.
 
 Show Paragraphs: Displays the text content of paragraphs (p) on the page.
 
+Show Div: Displays all the divisions (d) on the page.
+
+Show Sec: Displays all the sections (s) on the page.
+
+Show Headings: Displays all the headings (h) on the page.
+
+Change Link: Change the link of the website in running program.
+
 Exit: Terminates the script.
