@@ -39,6 +39,6 @@ Show Sec: Displays all the sections (s) on the page.
 
 Show Headings: Displays all the headings (h) on the page.
 
-Change Link: Change the link of the website in running program.
+Change Link: Change the link of the website to scrap any other website.
 
 Exit: Terminates the script.
