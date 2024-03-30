@@ -71,7 +71,7 @@ def Sec(ask=''):
 def Head(ask=''):
   global link
   
-  #see all sec or find sec
+  #see all headings or find headings
   h = input('Enter the Heading tag ->')
   li = ['h1','h2','h3','h4','h5','h6','h']
   
