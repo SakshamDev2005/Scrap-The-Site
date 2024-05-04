@@ -12,19 +12,8 @@ Users can interactively explore the website's HTML structure and extract informa
 3. Explore HTML code, view the site's title, extract links, display paragraphs and many more functions on your fingertips.
 
 
-## Requirements
-- Python 3.x
-- BeautifulSoup (`pip install beautifulsoup4`)
-- Requests (`pip install requests`)
+## Options
 
-
-## Usage Example
-```bash
-python Web-Scrapper.py
-
-Choose from the interactive menu options to explore and extract data.
-
-Options
 See HTML Code: Displays the prettified version of the entire HTML code.
 
 Title of the Site: Retrieves and displays the title of the website.
@@ -42,3 +31,15 @@ Show Headings: Displays all the headings (h) on the page.
 Change Link: Change the link of the website to scrap any other website.
 
 Exit: Terminates the script.
+
+
+
+## Requirements
+- Python 3.x
+- BeautifulSoup (`pip install beautifulsoup4`)
+- Requests (`pip install requests`)
+
+
+## Running the program code
+```bash
+python Web-Scrapper.py
