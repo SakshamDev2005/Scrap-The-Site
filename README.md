@@ -6,12 +6,6 @@ This Python script uses 𝙱̲𝚎̲𝚊̲𝚞̲𝚝̲𝚒̲𝚏̲𝚞̲𝚕̲�
 Users can interactively explore the website's HTML structure and extract information. Users can change the link and perform 𝑊̲𝑒̲𝑏̲ 𝑆̲𝑐̲𝑟̲𝑎̲𝑝̲𝑖̲𝑛̲𝑔̲ on other websites too.
 
 
-## How to Use
-1. Run the script.
-2. Choose from the interactive menu options.
-3. Explore HTML code, view the site's title, extract links, display paragraphs and many more functions on your fingertips.
-
-
 ## Options
 
 See HTML Code: Displays the prettified version of the entire HTML code.
@@ -33,6 +27,10 @@ Change Link: Change the link of the website to scrap any other website.
 Exit: Terminates the script.
 
 
+## How to Use
+1. Run the script.
+2. Choose from the interactive menu options.
+3. Explore HTML code, view the site's title, extract links, display paragraphs and many more functions on your fingertips.
 
 ## Requirements
 - Python 3.x
@@ -40,6 +38,6 @@ Exit: Terminates the script.
 - Requests (`pip install requests`)
 
 
-## Running the program code
+## Usage
 ```bash
 python Web-Scrapper.py
