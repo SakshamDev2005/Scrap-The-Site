@@ -41,3 +41,6 @@ Exit: Terminates the script.
 ## Usage
 ```bash
 python Web-Scrapper.py
+```
+
+s
