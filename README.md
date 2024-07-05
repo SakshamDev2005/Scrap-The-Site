@@ -43,4 +43,3 @@ Exit: Terminates the script.
 python Web-Scrapper.py
 ```
 
-s
